@@ -73,7 +73,7 @@ highlight_name: true
 ---
 
 Robert Arbon is a contractor at Memorial Sloane Kettering Cancer Centre in the lab of John Chodera.
-Their interests are in using statistics and machine learning methods to understand biomolecular dynmaics
+Their interests are in using statistics and machine learning methods to understand biomolecular dynamics
 from computer simulations. In addition, they are interested in novel display of scientific data through both audio and visual media, as well as scientific reproducibility. Their pronouns are they/them. 
 
 
