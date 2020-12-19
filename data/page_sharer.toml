@@ -1,9 +1,8 @@
 # Page Sharer
 # Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
-
 [[buttons]]
   id = "twitter"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  url = "https://twitter.com/BertieArbon/status/1133388878755164161?s=20"
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
