@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Robert Arbon
+title: Rob Arbon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Post doctoral research assistant
+role: Computational Chemist and Data Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Memorial Sloane Kettering Cancer Center
-  url: https://www.choderalab.org/members
+#organizations:
+#- name: Memorial Sloane Kettering Cancer Center
+#  url: https://www.choderalab.org/members
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Markov models of biomolecular dynamics, optimisation, novel data display and reproducibility
