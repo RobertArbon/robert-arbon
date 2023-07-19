@@ -30,7 +30,7 @@ doi: 10.1002/sd.2592
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: BottomLeft
   preview_only: false
 
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/sd.2592 

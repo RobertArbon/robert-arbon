@@ -30,7 +30,7 @@ url_pdf: https://journals.sagepub.com/doi/epub/10.1177/1461444821993800
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: BottomLeft
   preview_only: false
 
 # Projects (optional).

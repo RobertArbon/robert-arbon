@@ -16,12 +16,20 @@ authors:
 - James Bennett
 - Vitaliy A Bilenko
 - ' others'
-tags: []
+tags:
+- computational chemistry
+- open science
+- COVID
+- SARS-CoV-2
+
 categories: []
 date: '2020-01-01'
 lastmod: 2023-07-19T19:40:54+01:00
 featured: false
 draft: false
+doi: 10.1101/2020.10.29.339317
+pdf_url: https://www.biorxiv.org/content/10.1101/2020.10.29.339317v4.full.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

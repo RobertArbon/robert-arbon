@@ -28,7 +28,7 @@ url_pdf: https://research-information.bris.ac.uk/ws/portalfiles/portal/295741249
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: BottomLeft
   preview_only: false
 
 # Projects (optional).

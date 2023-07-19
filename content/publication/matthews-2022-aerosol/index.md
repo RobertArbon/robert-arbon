@@ -30,7 +30,7 @@ url_pdf: https://link.springer.com/content/pdf/10.1007/s11356-022-20806-w.pdf?pd
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: BottomLeft
   preview_only: false
 
 # Projects (optional).
