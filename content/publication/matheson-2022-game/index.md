@@ -11,12 +11,19 @@ authors:
 - Helena Lewis-Smith
 - Robert E Arbon
 - Phillippa C Diedrichs
-tags: []
+tags:
+- causal analysis
+- data-science
+- randomised control trial
+
 categories: []
 date: '2022-01-01'
 lastmod: 2023-07-19T19:40:54+01:00
 featured: false
 draft: false
+doi: 10.1177/1461444821993800
+
+url_pdf: https://journals.sagepub.com/doi/epub/10.1177/1461444821993800
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
