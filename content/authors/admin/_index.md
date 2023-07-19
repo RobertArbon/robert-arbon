@@ -18,18 +18,19 @@ bio: My research interests include Markov models of biomolecular dynamics, optim
 
 # Interests to show in About widget
 interests:
-- Biomolecular dynamics
-- Markov models
-- (Bayesian) Optimisation
-- Reproducibility
-- Novel data display
+- Software development
+- Molecular dynamics and kinetics
+- Statistical analysis
+- Deep learning
+- Bayesian Optimisation
+
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in computational chemistry
     institution: Bristol University
-    year: 2020
+    year: 2022
   - course: S.M. in applied physics
     institution: Harvard University
     year: 2007
@@ -45,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/BertieArbon
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/BertieArbon
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=fUB2tUkAAAAJ&hl=en
@@ -72,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Robert Arbon is a contractor at Memorial Sloane Kettering Cancer Centre in the lab of John Chodera.
+Robert Arbon is a computational chemist and data scientist. 
 Their interests are in using statistics and machine learning methods to understand biomolecular dynamics
 from computer simulations. In addition, they are interested in novel display of scientific data through both audio and visual media, as well as scientific reproducibility. Their pronouns are they/them. 
 
