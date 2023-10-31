@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Markov state models: to optimize or not to optimize?
+title: 'Markov state models: to optimize or not to optimize?'
 subtitle: ''
 summary: ''
 authors:
@@ -17,7 +17,7 @@ tags:
 
 categories: []
 date: '2023-10-01'
-lastmod: 2023-07-19T19:40:54+01:00
+lastmod: 
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-19T18:40:53.770067Z'
+publishDate: 
 publication_types:
 - '7'
 abstract: ''
